@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "45dc8f58-8118-4916-9da1-d22966777aea",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "45dc8f58-8118-4916-9da1-d22966777aea@6c48a",
+      "displayName": "taibai_fall",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "45dc8f58-8118-4916-9da1-d22966777aea",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "45dc8f58-8118-4916-9da1-d22966777aea@f9941",
+      "displayName": "taibai_fall",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 3.5,
+        "offsetY": 3.5,
+        "trimX": 10,
+        "trimY": 3,
+        "width": 499,
+        "height": 322,
+        "rawWidth": 512,
+        "rawHeight": 335,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -249.5,
+            -161,
+            0,
+            249.5,
+            -161,
+            0,
+            -249.5,
+            161,
+            0,
+            249.5,
+            161,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            10,
+            332,
+            509,
+            332,
+            10,
+            10,
+            509,
+            10
+          ],
+          "nuv": [
+            0.01953125,
+            0.029850746268656716,
+            0.994140625,
+            0.029850746268656716,
+            0.01953125,
+            0.991044776119403,
+            0.994140625,
+            0.991044776119403
+          ],
+          "minPos": [
+            -249.5,
+            -161,
+            0
+          ],
+          "maxPos": [
+            249.5,
+            161,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "45dc8f58-8118-4916-9da1-d22966777aea@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "45dc8f58-8118-4916-9da1-d22966777aea@6c48a"
+  }
+}

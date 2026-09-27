@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bgm_tiangong_loop",
+    "path": "assets/audio/music/bgm_tiangong_loop.wav",
+    "seconds": 20.87,
+    "sample_rate": 22050,
+    "channels": 1,
+    "loop": true,
+    "source": "original procedural synthesis"
+  },
+  {
+    "id": "sfx_lift",
+    "path": "assets/audio/sfx/sfx_lift.wav",
+    "seconds": 0.28,
+    "sample_rate": 22050,
+    "channels": 1,
+    "loop": false,
+    "source": "original procedural synthesis"
+  },
+  {
+    "id": "sfx_score",
+    "path": "assets/audio/sfx/sfx_score.wav",
+    "seconds": 0.7,
+    "sample_rate": 22050,
+    "channels": 1,
+    "loop": false,
+    "source": "original procedural synthesis"
+  },
+  {
+    "id": "sfx_hit",
+    "path": "assets/audio/sfx/sfx_hit.wav",
+    "seconds": 0.3,
+    "sample_rate": 22050,
+    "channels": 1,
+    "loop": false,
+    "source": "original procedural synthesis"
+  },
+  {
+    "id": "sfx_ui_click",
+    "path": "assets/audio/sfx/sfx_ui_click.wav",
+    "seconds": 0.16,
+    "sample_rate": 22050,
+    "channels": 1,
+    "loop": false,
+    "source": "original procedural synthesis"
+  }
+]

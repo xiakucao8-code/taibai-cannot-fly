@@ -1,0 +1,7 @@
+{
+  "platform": "wechatgame",
+  "taskName": "wechatgame",
+  "outputName": "wechatgame",
+  "debug": false,
+  "mainBundleCompressionType": "merge_dep"
+}

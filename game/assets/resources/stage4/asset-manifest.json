@@ -1,0 +1,135 @@
+[
+  {
+    "source": "backgrounds/bg_tiangong_sky.png",
+    "resource": "stage4/backgrounds/sky",
+    "width": 960,
+    "height": 1440,
+    "bytes": 2227387
+  },
+  {
+    "source": "backgrounds/bg_tiangong_far_islands.png",
+    "resource": "stage4/backgrounds/far_islands",
+    "width": 1024,
+    "height": 627,
+    "bytes": 889526
+  },
+  {
+    "source": "backgrounds/bg_tiangong_mid_palace.png",
+    "resource": "stage4/backgrounds/mid_palace",
+    "width": 1024,
+    "height": 655,
+    "bytes": 1126154
+  },
+  {
+    "source": "backgrounds/bg_cloud_bank.png",
+    "resource": "stage4/backgrounds/cloud_bank",
+    "width": 960,
+    "height": 288,
+    "bytes": 355033
+  },
+  {
+    "source": "characters/taibai/taibai_idle.png",
+    "resource": "stage4/characters/taibai_idle",
+    "width": 512,
+    "height": 299,
+    "bytes": 220424
+  },
+  {
+    "source": "characters/taibai/taibai_rise.png",
+    "resource": "stage4/characters/taibai_rise",
+    "width": 512,
+    "height": 316,
+    "bytes": 228255
+  },
+  {
+    "source": "characters/taibai/taibai_fall.png",
+    "resource": "stage4/characters/taibai_fall",
+    "width": 512,
+    "height": 335,
+    "bytes": 222485
+  },
+  {
+    "source": "characters/taibai/taibai_hit.png",
+    "resource": "stage4/characters/taibai_hit",
+    "width": 512,
+    "height": 302,
+    "bytes": 222238
+  },
+  {
+    "source": "obstacles/ground/obstacle_mountain.png",
+    "resource": "stage4/obstacles/mountain",
+    "width": 320,
+    "height": 475,
+    "bytes": 217489
+  },
+  {
+    "source": "obstacles/ground/obstacle_stone_pillar.png",
+    "resource": "stage4/obstacles/stone_pillar",
+    "width": 320,
+    "height": 905,
+    "bytes": 503158
+  },
+  {
+    "source": "obstacles/ground/obstacle_fireball.png",
+    "resource": "stage4/obstacles/fireball",
+    "width": 256,
+    "height": 277,
+    "bytes": 115502
+  },
+  {
+    "source": "obstacles/sky/obstacle_storm_cloud.png",
+    "resource": "stage4/obstacles/storm_cloud",
+    "width": 256,
+    "height": 127,
+    "bytes": 49538
+  },
+  {
+    "source": "obstacles/sky/obstacle_lightning.png",
+    "resource": "stage4/obstacles/lightning",
+    "width": 320,
+    "height": 909,
+    "bytes": 282282
+  },
+  {
+    "source": "obstacles/sky/obstacle_wind_fire_wheel.png",
+    "resource": "stage4/obstacles/wind_fire_wheel",
+    "width": 256,
+    "height": 260,
+    "bytes": 113422
+  },
+  {
+    "source": "ui/ui_title_taibai.png",
+    "resource": "stage4/ui/title",
+    "width": 640,
+    "height": 338,
+    "bytes": 254159
+  },
+  {
+    "source": "ui/ui_panel_results.png",
+    "resource": "stage4/ui/results_panel",
+    "width": 640,
+    "height": 399,
+    "bytes": 318746
+  },
+  {
+    "source": "ui/ui_button_primary.png",
+    "resource": "stage4/ui/primary_button",
+    "width": 400,
+    "height": 99,
+    "bytes": 58812
+  },
+  {
+    "source": "ui/icons/ui_hint_hold.png",
+    "resource": "stage4/ui/hold_hint",
+    "width": 128,
+    "height": 129,
+    "bytes": 22952
+  },
+  {
+    "source": "derived from obstacles/ground/obstacle_mountain.png",
+    "resource": "stage4/obstacles/mountain_base",
+    "width": 320,
+    "height": 145,
+    "bytes": 105675
+  }
+]

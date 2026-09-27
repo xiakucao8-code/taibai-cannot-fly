@@ -1,0 +1,135 @@
+{
+  "generator": "built-in image_gen.imagegen",
+  "date": "2026-09-26",
+  "reference": "art_sources/references/style_reference.png",
+  "assets": [
+    {
+      "id": "taibai_idle",
+      "dir": "characters/taibai",
+      "prompt": "Use case: stylized-concept. Asset type: production-ready transparent 2D game character sprite for Taibai Cannot Fly, portrait mobile game. Reference image 1 is appearance and palette reference only. Generate ONE isolated full-body Taibai Jinxing elderly Chinese celestial official flying horizontally toward RIGHT, side three-quarter view, head at right and feet at left. White hair topknot with gold star hairpin, long white beard, ivory robe with gold trim, dark navy sash, small gold waist pouch, warm rosy cheeks, comically worried but gentle face. Idle flying pose: body horizontal, both arms extending forward, sleeves softly trailing. Simplified readable silhouette suitable at 140px wide. Warm hand-painted 2D animation cel, subtle watercolor texture, navy outlines, restrained shadows. All body parts entirely inside canvas with 12% transparent margin. Landscape 3:2 composition, centered body pivot. Actual transparent alpha background, not checkerboard or white. No scenery, no cloud mount, no text, no labels, no frame, no shadow beneath, no watermark. This is a single sprite, not a sheet.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-7fd94a93-2e6a-4431-a7df-ea123119e9f0.png",
+      "path": "assets/art/characters/taibai/taibai_idle.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "taibai_rise",
+      "dir": "characters/taibai",
+      "prompt": "Use case: identity-preserve. Asset type: transparent 2D game character state sprite. Edit reference character only: keep exactly same elderly face, white topknot, gold star hairpin, ivory gold-trim robes, navy sash, pouch, hand-painted cel rendering and body proportions. Full body flying RIGHT, feet LEFT. Landscape 1536x1024 canvas. Body center at canvas center, fit whole character within central 80% width and 75% height. True transparent RGBA background; absolutely no ambient aura, backdrop, vignette, ground shadow, text or border. Change pose to UPWARD FLIGHT: face looking slightly up and right, arms reach forward-up, determined exertion cheeks, sleeves and beard trail down-left. Body pitch only 10 degrees upward. One single full character.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-155f00dc-81e7-4f2a-9cb3-752f026f98e7.png",
+      "path": "assets/art/characters/taibai/taibai_rise.png",
+      "reference": "assets/art/characters/taibai/taibai_idle.png"
+    },
+    {
+      "id": "taibai_fall",
+      "dir": "characters/taibai",
+      "prompt": "Use case: identity-preserve. Asset type: transparent 2D game character state sprite. Edit reference character only: keep exactly same elderly face, white topknot, gold star hairpin, ivory gold-trim robes, navy sash, pouch, hand-painted cel rendering and body proportions. Full body flying RIGHT, feet LEFT. Landscape 1536x1024 canvas. Body center at canvas center, fit whole character within central 80% width and 75% height. True transparent RGBA background; absolutely no ambient aura, backdrop, vignette, ground shadow, text or border. Change pose to FALLING: head still on right, body pitches 10 degrees downward; eyes startled, mouth open, arms out reaching right; long beard and sleeve ends stream upward due to downward motion. One single full character.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-b99f81d4-c2cf-4ead-85ca-23422f8bf7ba.png",
+      "path": "assets/art/characters/taibai/taibai_fall.png",
+      "reference": "assets/art/characters/taibai/taibai_idle.png"
+    },
+    {
+      "id": "taibai_hit",
+      "dir": "characters/taibai",
+      "prompt": "Use case: identity-preserve. Asset type: transparent 2D game character state sprite. Edit reference character only: keep exactly same elderly face, white topknot, gold star hairpin, ivory gold-trim robes, navy sash, pouch, hand-painted cel rendering and body proportions. Full body flying RIGHT, feet LEFT. Landscape 1536x1024 canvas. Body center at canvas center, fit whole character within central 80% width and 75% height. True transparent RGBA background; absolutely no ambient aura, backdrop, vignette, ground shadow, text or border. Change pose to brief comical COLLISION REACTION: full body remains horizontal facing right, eyes squeezed shut, cheeks puffed, arms recoiling. No injury. No stars outside body, no extra effects. One single full character.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-449948f7-1557-40fb-9f2a-29a40758f7eb.png",
+      "path": "assets/art/characters/taibai/taibai_hit.png",
+      "reference": "assets/art/characters/taibai/taibai_idle.png"
+    },
+    {
+      "id": "obstacle_mountain",
+      "dir": "obstacles/ground",
+      "prompt": "Use case: stylized-concept. Asset type: single isolated 2D obstacle sprite for a mobile game. Warm hand-painted animation cel with subtle watercolor texture, clean dark navy outline, ivory/gold/blue-gray palette, matching reference's visual language. Reference is style only; DO NOT include character or lettering. Genuine transparent alpha background, no shadows outside object, no colored backdrop, no labels, no watermark, no border. Strong simplified readable silhouette. Whole object fully visible with generous empty transparent padding. ONE tall narrow mountain rock formation rising upward: tapered jagged peak, slate gray and warm limestone rock faces, small patches sage green moss, no temple or clouds. Flat broad base below, apex above. Front/side orthographic game view, not isometric. Portrait canvas 1024x1536.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-788fb8f2-bcb5-464c-b08c-dd00047e60d1.png",
+      "path": "assets/art/obstacles/ground/obstacle_mountain.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "obstacle_stone_pillar",
+      "dir": "obstacles/ground",
+      "prompt": "Use case: stylized-concept. Asset type: single isolated 2D obstacle sprite for a mobile game. Warm hand-painted animation cel with subtle watercolor texture, clean dark navy outline, ivory/gold/blue-gray palette, matching reference's visual language. Reference is style only; DO NOT include character or lettering. Genuine transparent alpha background, no shadows outside object, no colored backdrop, no labels, no watermark, no border. Strong simplified readable silhouette. Whole object fully visible with generous empty transparent padding. ONE upright tall ancient celestial stone pillar, weathered pale warm gray stone, restrained gold cloud-pattern band near the top, simple rectangular column with clear squared cap and base, no protruding ornaments. Front orthographic game view, not isometric. Portrait canvas 1024x1536.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-e2720835-ce65-4af5-97db-dab99e307c87.png",
+      "path": "assets/art/obstacles/ground/obstacle_stone_pillar.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "obstacle_fireball",
+      "dir": "obstacles/ground",
+      "prompt": "Use case: stylized-concept. Asset type: single isolated 2D obstacle sprite for a mobile game. Warm hand-painted animation cel with subtle watercolor texture, clean dark navy outline, ivory/gold/blue-gray palette, matching reference's visual language. Reference is style only; DO NOT include character or lettering. Genuine transparent alpha background, no shadows outside object, no colored backdrop, no labels, no watermark, no border. Strong simplified readable silhouette. Whole object fully visible with generous empty transparent padding. ONE circular magical fireball: solid warm orange-red round core, cream yellow inner flame, compact curling flame tips, hand-painted navy-rust contours. Symmetrical overall footprint, no long comet tail, no face, no scenery. Centered square canvas 1024x1024.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-ea2139bb-f678-4221-a5c6-ddcb4d4e265e.png",
+      "path": "assets/art/obstacles/ground/obstacle_fireball.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "obstacle_storm_cloud",
+      "dir": "obstacles/sky",
+      "prompt": "Use case: stylized-concept. Asset type: single isolated 2D obstacle sprite for a mobile game. Warm hand-painted animation cel with subtle watercolor texture, clean dark navy outline, ivory/gold/blue-gray palette, matching reference's visual language. Reference is style only; DO NOT include character or lettering. Genuine transparent alpha background, no shadows outside object, no colored backdrop, no labels, no watermark, no border. Strong simplified readable silhouette. Whole object fully visible with generous empty transparent padding. ONE dark blue-gray storm cloud, compact wide puffy scalloped silhouette, navy underside, cool blue highlights. Clearly dangerous darker cloud, no face, no lightning, no rain. Horizontally oriented centered square canvas 1024x1024.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-ccdb4763-d04c-4bce-ac56-ca9a6c2fd00b.png",
+      "path": "assets/art/obstacles/sky/obstacle_storm_cloud.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "obstacle_lightning",
+      "dir": "obstacles/sky",
+      "prompt": "Use case: stylized-concept. Asset type: single isolated 2D obstacle sprite for a mobile game. Warm hand-painted animation cel with subtle watercolor texture, clean dark navy outline, ivory/gold/blue-gray palette, matching reference's visual language. Reference is style only; DO NOT include character or lettering. Genuine transparent alpha background, no shadows outside object, no colored backdrop, no labels, no watermark, no border. Strong simplified readable silhouette. Whole object fully visible with generous empty transparent padding. ONE tall zigzag lightning bolt pointing downward, thick pale golden-white center with amber outline and restrained blue accent along edge. Three large angular bends, solid readable continuous shape, no detached sparks, no cloud, no glow beyond silhouette. Portrait canvas 1024x1536.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-062b895f-f605-4155-8f8a-5128dec35d47.png",
+      "path": "assets/art/obstacles/sky/obstacle_lightning.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "obstacle_wind_fire_wheel",
+      "dir": "obstacles/sky",
+      "prompt": "Use case: stylized-concept. Asset type: single isolated 2D obstacle sprite for a mobile game. Warm hand-painted animation cel with subtle watercolor texture, clean dark navy outline, ivory/gold/blue-gray palette, matching reference's visual language. Reference is style only; DO NOT include character or lettering. Genuine transparent alpha background, no shadows outside object, no colored backdrop, no labels, no watermark, no border. Strong simplified readable silhouette. Whole object fully visible with generous empty transparent padding. ONE front-facing circular Chinese mythological wind-fire wheel: golden ring, central hub, six clean spokes, red-orange curling flames around rim. Perfect frontal circular form with rotation pivot at center. No perspective tilt, no face, no other props. Centered square canvas 1024x1024.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-5934908f-53c2-466e-a267-eb839e6236b7.png",
+      "path": "assets/art/obstacles/sky/obstacle_wind_fire_wheel.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "ui_title_taibai",
+      "dir": "ui",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent 2D game UI asset. Match reference's warm hand-painted cel texture, clean dark navy outlines, ivory and gold highlights, restrained weathered wood colors, friendly Chinese celestial theme. Genuine transparent alpha background, no background vignette, no watermark, no framing outside asset. Complete silhouette with at least 8% transparent padding. A single game title logo on two lines. EXACT simplified Chinese text: first line \"太白金星\" second line \"不会飞\". Large friendly bold handmade brush lettering, first line ivory and second warm golden yellow, thick navy outline. Tiny gold star accent and small ivory cloud curl. ONLY these seven Chinese characters, no punctuation or other text, no characters or scenery. Landscape 1536x1024.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-ea8a21ac-ac8f-4030-a7ad-0c5701749b40.png",
+      "path": "assets/art/ui/ui_title_taibai.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "ui_panel_results",
+      "dir": "ui",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent 2D game UI asset. Match reference's warm hand-painted cel texture, clean dark navy outlines, ivory and gold highlights, restrained weathered wood colors, friendly Chinese celestial theme. Genuine transparent alpha background, no background vignette, no watermark, no framing outside asset. Complete silhouette with at least 8% transparent padding. ONE front-facing warm pale wood results panel, rounded rectangular board with subtle grain and four small gold corner details with cloud motifs. Two short hanging ropes and tiny brass bell at top edge. Panel center completely BLANK, very light beige even tone for overlaid dark text, no compartments, no lettering or numbers, no symbols in center. Broad landscape 3:2 panel on landscape 1536x1024.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-583fcece-0234-4337-bf35-049bd9de0520.png",
+      "path": "assets/art/ui/ui_panel_results.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "ui_button_primary",
+      "dir": "ui",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent 2D game UI asset. Match reference's warm hand-painted cel texture, clean dark navy outlines, ivory and gold highlights, restrained weathered wood colors, friendly Chinese celestial theme. Genuine transparent alpha background, no background vignette, no watermark, no framing outside asset. Complete silhouette with at least 8% transparent padding. ONE wide horizontally rounded rectangular game button, warm honey-gold lacquered wood, ivory cloud flourish at each end, light cream-gold large blank center to place label later, thick navy outline, subtly beveled hand-painted edges. No text or symbols in center. Front face only. Overall button width to height about 3.5:1, centered landscape canvas 1536x1024.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-c7ee2502-c3eb-45ac-9ce8-63240da00b89.png",
+      "path": "assets/art/ui/ui_button_primary.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "ui_sound_on",
+      "dir": "ui/icons",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent 2D game UI asset. Match reference's warm hand-painted cel texture, clean dark navy outlines, ivory and gold highlights, restrained weathered wood colors, friendly Chinese celestial theme. Genuine transparent alpha background, no background vignette, no watermark, no framing outside asset. Complete silhouette with at least 8% transparent padding. ONE simple circular ivory-and-gold UI medallion with a clearly recognizable dark navy speaker and two curved sound waves. Simplify so legible at 40px. Front-on, flat cel shading, square canvas 1024x1024. No text, no extra decorations.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-265a3c65-e2ed-4241-8038-f5886d98802d.png",
+      "path": "assets/art/ui/icons/ui_sound_on.png",
+      "reference": "art_sources/references/style_reference.png"
+    },
+    {
+      "id": "ui_sound_off",
+      "dir": "ui/icons",
+      "prompt": "Use case: precise-object-edit. Edit target is this exact sound-on medallion. Change ONLY the central sound symbol to muted by adding a clean dark navy diagonal slash across the speaker and its sound waves. Preserve pixel canvas dimensions, medallion size, circular border, exact position, cloud ornaments, color palette, shading and transparent background. Do not shrink, tilt, move, redraw, or add ornaments. Deliver matching transparent PNG sound-off UI sprite with exactly the same silhouette and padding as the reference.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-f2b5743b-8eaa-4e90-8540-8ad5cf2cc1d5.png",
+      "reference": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-265a3c65-e2ed-4241-8038-f5886d98802d.png",
+      "path": "assets/art/ui/icons/ui_sound_off.png"
+    },
+    {
+      "id": "ui_hint_hold",
+      "dir": "ui/icons",
+      "prompt": "Use case: stylized-concept. Asset type: isolated transparent 2D game UI asset. Match reference's warm hand-painted cel texture, clean dark navy outlines, ivory and gold highlights, restrained weathered wood colors, friendly Chinese celestial theme. Genuine transparent alpha background, no background vignette, no watermark, no framing outside asset. Complete silhouette with at least 8% transparent padding. ONE friendly simple ivory cartoon hand with extended index finger pressing a small golden circular touch ripple at fingertip, clear instructional long-press symbol, navy outlines, restrained soft shading. Centered square 1024x1024. No words, no arrows, no device, no other objects.",
+      "source": "C:\\Users\\Huawei\\.codex\\generated_images\\01a0dd82-ae2a-7be0-b9b7-c56d1eb3a7a0\\exec-0205c9a1-6924-4074-b3b1-47a213e3c683.png",
+      "path": "assets/art/ui/icons/ui_hint_hold.png",
+      "reference": "art_sources/references/style_reference.png"
+    }
+  ]
+}

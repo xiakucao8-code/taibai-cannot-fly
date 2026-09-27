@@ -1,0 +1,553 @@
+{
+  "version": "1.0",
+  "engine_target": "Cocos Creator 3.8.8",
+  "images": [
+    {
+      "id": "bg_cloud_bank",
+      "label": "薄云",
+      "path": "assets/art/backgrounds/bg_cloud_bank.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        0,
+        19,
+        1536,
+        1000
+      ],
+      "bytes": 1209244,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "bg_tiangong_far_islands",
+      "label": "远景仙山",
+      "path": "assets/art/backgrounds/bg_tiangong_far_islands.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        0,
+        21,
+        1536,
+        1024
+      ],
+      "bytes": 2115661,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "bg_tiangong_mid_palace",
+      "label": "中景宫阙",
+      "path": "assets/art/backgrounds/bg_tiangong_mid_palace.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        0,
+        21,
+        1536,
+        1024
+      ],
+      "bytes": 2364485,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "bg_tiangong_sky",
+      "label": "天空底图",
+      "path": "assets/art/backgrounds/bg_tiangong_sky.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "has_transparency": false,
+      "alpha_extrema": [
+        255,
+        255
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "bytes": 1883405,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "taibai_fall",
+      "label": "太白金星 · 下落",
+      "path": "assets/art/characters/taibai/taibai_fall.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        54,
+        14,
+        1522,
+        1024
+      ],
+      "bytes": 2032536,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "taibai_hit",
+      "label": "太白金星 · 受击",
+      "path": "assets/art/characters/taibai/taibai_hit.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        17,
+        39,
+        1526,
+        985
+      ],
+      "bytes": 2060805,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "taibai_idle",
+      "label": "太白金星 · 待机",
+      "path": "assets/art/characters/taibai/taibai_idle.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        18,
+        35,
+        1528,
+        976
+      ],
+      "bytes": 2060365,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "taibai_rise",
+      "label": "太白金星 · 上升",
+      "path": "assets/art/characters/taibai/taibai_rise.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        55,
+        23,
+        1529,
+        968
+      ],
+      "bytes": 2034865,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "obstacle_fireball",
+      "label": "火球",
+      "path": "assets/art/obstacles/ground/obstacle_fireball.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        49,
+        21,
+        1230,
+        1238
+      ],
+      "bytes": 1119598,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "obstacle_mountain",
+      "label": "山峰",
+      "path": "assets/art/obstacles/ground/obstacle_mountain.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        24,
+        42,
+        1002,
+        1496
+      ],
+      "bytes": 2182772,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "obstacle_stone_pillar",
+      "label": "石柱",
+      "path": "assets/art/obstacles/ground/obstacle_stone_pillar.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        63,
+        65,
+        1012,
+        1480
+      ],
+      "bytes": 1675091,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "obstacle_lightning",
+      "label": "雷电",
+      "path": "assets/art/obstacles/sky/obstacle_lightning.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        293,
+        15,
+        1010,
+        1500
+      ],
+      "bytes": 1362626,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "obstacle_storm_cloud",
+      "label": "乌云",
+      "path": "assets/art/obstacles/sky/obstacle_storm_cloud.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        28,
+        21,
+        1226,
+        1198
+      ],
+      "bytes": 833904,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "obstacle_wind_fire_wheel",
+      "label": "风火轮",
+      "path": "assets/art/obstacles/sky/obstacle_wind_fire_wheel.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        0,
+        38,
+        1205,
+        1254
+      ],
+      "bytes": 1729600,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "ui_hint_hold",
+      "label": "长按手势",
+      "path": "assets/art/ui/icons/ui_hint_hold.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        33,
+        20,
+        1196,
+        1230
+      ],
+      "bytes": 755433,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "ui_sound_off",
+      "label": "声音关闭",
+      "path": "assets/art/ui/icons/ui_sound_off.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        0,
+        158,
+        1095,
+        1214
+      ],
+      "bytes": 1146912,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "ui_sound_on",
+      "label": "声音开启",
+      "path": "assets/art/ui/icons/ui_sound_on.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        0,
+        20,
+        1184,
+        1236
+      ],
+      "bytes": 1197337,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "ui_button_primary",
+      "label": "主按钮",
+      "path": "assets/art/ui/ui_button_primary.png",
+      "width": 1983,
+      "height": 793,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        1965,
+        760
+      ],
+      "bytes": 967769,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "ui_panel_results",
+      "label": "结算木牌",
+      "path": "assets/art/ui/ui_panel_results.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        0,
+        0,
+        1535,
+        1024
+      ],
+      "bytes": 1944731,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    },
+    {
+      "id": "ui_title_taibai",
+      "label": "游戏标题",
+      "path": "assets/art/ui/ui_title_taibai.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "has_transparency": true,
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "alpha_bounds": [
+        25,
+        35,
+        1518,
+        998
+      ],
+      "bytes": 1578993,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "status": "v1_generated_art"
+    }
+  ],
+  "audio": [
+    {
+      "id": "bgm_tiangong_loop",
+      "path": "assets/audio/music/bgm_tiangong_loop.wav",
+      "seconds": 20.87,
+      "sample_rate": 22050,
+      "channels": 1,
+      "loop": true,
+      "source": "original procedural synthesis"
+    },
+    {
+      "id": "sfx_lift",
+      "path": "assets/audio/sfx/sfx_lift.wav",
+      "seconds": 0.28,
+      "sample_rate": 22050,
+      "channels": 1,
+      "loop": false,
+      "source": "original procedural synthesis"
+    },
+    {
+      "id": "sfx_score",
+      "path": "assets/audio/sfx/sfx_score.wav",
+      "seconds": 0.7,
+      "sample_rate": 22050,
+      "channels": 1,
+      "loop": false,
+      "source": "original procedural synthesis"
+    },
+    {
+      "id": "sfx_hit",
+      "path": "assets/audio/sfx/sfx_hit.wav",
+      "seconds": 0.3,
+      "sample_rate": 22050,
+      "channels": 1,
+      "loop": false,
+      "source": "original procedural synthesis"
+    },
+    {
+      "id": "sfx_ui_click",
+      "path": "assets/audio/sfx/sfx_ui_click.wav",
+      "seconds": 0.16,
+      "sample_rate": 22050,
+      "channels": 1,
+      "loop": false,
+      "source": "original procedural synthesis"
+    }
+  ]
+}
